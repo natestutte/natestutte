@@ -4,7 +4,7 @@ My name is Nate Stutte with my screenname being Magfmur!
 
 I'm a Junior Software Developer who is a Sophomore at Drexel University. I often am working on my own personal projects, but also working on getting more professional projects started.
 
-- 🔭 I'm currently working on : [My website!](https://www.natestutte.me)
+- 🔭 I'm currently working on : [My website!](https://natestutte.github.io)
 - 🐍 Often working in Python, Processing, and C/C++
 - ✨ Interested most in Machine Learning and Data Analysis
 - 🌱 Always learning new things about software development
